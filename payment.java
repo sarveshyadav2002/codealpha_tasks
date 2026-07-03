@@ -1,4 +1,3 @@
-
 class Payment {
 
     public static boolean makePayment(double amount) {
